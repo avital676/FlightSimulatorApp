@@ -11,10 +11,7 @@ namespace FlightSimulator.ViewModel
 
         public Location VM_Location
         {
-            get
-            {
-                return model.Location;
-            }
+            get { return model.Location; }
         }
     }
 }
