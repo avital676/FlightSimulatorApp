@@ -1,3 +1,3 @@
 # FlightSimulatorApp
 
-Web Application for communicating with a flight simulator.
+Application for communicating with a flight simulator.
