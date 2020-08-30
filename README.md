@@ -1,3 +1,3 @@
 # FlightSimulatorApp
 
-Application for communicating with a flight simulator.
+Desktop application for communicating with a flight simulator.
